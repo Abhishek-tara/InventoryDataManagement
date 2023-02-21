@@ -1,0 +1,50 @@
+{
+  "TypesOfRice": [
+    {
+      "name": "Basumathi",
+      "weight": 3,
+      "price": 60
+    },
+    {
+      "name": "Red Rice",
+      "weight": 4,
+      "price": 80
+    },
+    {
+      "name": "Special Rice",
+      "weight": 5,
+      "price": 100
+    }
+  ],
+  "TypesOfPulses": [
+    {
+      "name": "Dal",
+      "weight": 2,
+      "price": 15
+    },
+    {
+      "name": "GreenGram",
+      "weight": 3,
+      "price": 20
+    },
+    {
+      "name": "HorseGram",
+      "weight": 4,
+      "price": 25
+    }
+  ],
+  "TypesOfWheat": [
+    {
+      "name": "Wheat1",
+      "weight": 3,
+      "price": 60
+    },
+    {
+      "name": "Wheat2",
+      "weight": 4,
+      "price": 80
+    }
+    
+  ]
+
+}
